@@ -1,0 +1,13 @@
+#Question 1
+Who is the Prime minister of India?
+*Narendra Modi(correct)
+*Amit Shah
+*Rahul Gandhi
+*Stalin
+
+#Question 2
+Who is the Chief Minister of tamilnadu?
+*Stalin(correct)
+*Narendra Modi 
+*Amit Shah
+*Rahul Gandhi
